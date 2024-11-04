@@ -3,15 +3,15 @@
 
 ##############################################################################
 
-USER = ''
-PASSWORD = ''
+USER = 'abdalrahim221'
+PASSWORD = 'abdallh'
 
 hashtags = [
-    ''
+    '#كل_خميس_هدية'
 ]
 
 comments = [
-    ''
+    'abdallh'
 ]
 
 posts = 1
